@@ -1,3 +1,3 @@
 # io
 
-#analogue of the online game agario
+analogue of the online game agario
